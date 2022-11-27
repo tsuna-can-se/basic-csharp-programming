@@ -20,6 +20,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadInputData", "05\ReadInputData\ReadInputData.csproj", "{CEA42B43-DC80-44E7-87EA-9F3F7DBC5788}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefineConstants", "05\DefineConstants\DefineConstants.csproj", "{F7EF6663-DB16-4076-900B-0842369FBE5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,10 @@ Global
 		{CEA42B43-DC80-44E7-87EA-9F3F7DBC5788}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CEA42B43-DC80-44E7-87EA-9F3F7DBC5788}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CEA42B43-DC80-44E7-87EA-9F3F7DBC5788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7EF6663-DB16-4076-900B-0842369FBE5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7EF6663-DB16-4076-900B-0842369FBE5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7EF6663-DB16-4076-900B-0842369FBE5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7EF6663-DB16-4076-900B-0842369FBE5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{C17A9128-8422-4363-A2A7-AEE379DC8C3B} = {1E922897-0BAE-4891-A2A4-C6F91D7A4C3A}
 		{E604D818-E4D6-4944-AE8F-F5CB4FD4E7F9} = {F7BEDC4A-AE48-4123-87CB-387388F976D9}
 		{CEA42B43-DC80-44E7-87EA-9F3F7DBC5788} = {F7BEDC4A-AE48-4123-87CB-387388F976D9}
+		{F7EF6663-DB16-4076-900B-0842369FBE5F} = {F7BEDC4A-AE48-4123-87CB-387388F976D9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
