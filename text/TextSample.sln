@@ -58,6 +58,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparisonOperators", "06\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorPrecedence", "06\OperatorPrecedence\OperatorPrecedence.csproj", "{A7DF5E73-F816-4631-A98C-59D0E4AC7D35}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07", "07", "{0CB5151F-03B6-4DB4-930D-16A280999EF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayVariables", "07\ArrayVariables\ArrayVariables.csproj", "{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,6 +148,10 @@ Global
 		{A7DF5E73-F816-4631-A98C-59D0E4AC7D35}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7DF5E73-F816-4631-A98C-59D0E4AC7D35}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7DF5E73-F816-4631-A98C-59D0E4AC7D35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -169,6 +177,7 @@ Global
 		{B1D0FF1A-2F0B-4E82-82B4-0925036FD10B} = {911215E2-F018-4D88-9D1C-DA494AC40E6A}
 		{1324BF0C-D976-4B5B-AE07-70236FA18FE8} = {911215E2-F018-4D88-9D1C-DA494AC40E6A}
 		{A7DF5E73-F816-4631-A98C-59D0E4AC7D35} = {911215E2-F018-4D88-9D1C-DA494AC40E6A}
+		{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
