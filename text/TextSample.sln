@@ -64,6 +64,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayVariables", "07\ArrayV
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOperator", "06\PlusOperator\PlusOperator.csproj", "{52C87242-98BF-48CB-9C12-0E785EB4E076}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListVariables", "07\ListVariables\ListVariables.csproj", "{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -158,6 +160,10 @@ Global
 		{52C87242-98BF-48CB-9C12-0E785EB4E076}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52C87242-98BF-48CB-9C12-0E785EB4E076}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52C87242-98BF-48CB-9C12-0E785EB4E076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -185,6 +191,7 @@ Global
 		{A7DF5E73-F816-4631-A98C-59D0E4AC7D35} = {911215E2-F018-4D88-9D1C-DA494AC40E6A}
 		{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
 		{52C87242-98BF-48CB-9C12-0E785EB4E076} = {911215E2-F018-4D88-9D1C-DA494AC40E6A}
+		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
