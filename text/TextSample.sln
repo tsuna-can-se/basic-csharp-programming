@@ -42,29 +42,31 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06", "06", "{911215E2-F018-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debugger", "06\Debugger\Debugger.csproj", "{4D4A8CCE-C7EE-42C7-A6AC-EDC1C3D5F4B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatementAndVariables", "06\StatementAndVariables\StatementAndVariables.csproj", "{F0480DD3-5180-4839-B699-F9BE0260AAAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatementAndVariables", "06\StatementAndVariables\StatementAndVariables.csproj", "{F0480DD3-5180-4839-B699-F9BE0260AAAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssignmentOperator", "06\AssignmentOperator\AssignmentOperator.csproj", "{522AE8EE-BBCA-4BBF-83DC-1E5BD8DE8405}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssignmentOperator", "06\AssignmentOperator\AssignmentOperator.csproj", "{522AE8EE-BBCA-4BBF-83DC-1E5BD8DE8405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryOperators", "06\BinaryOperators\BinaryOperators.csproj", "{69FFEABA-39BD-46AF-8431-04D91F0050E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryOperators", "06\BinaryOperators\BinaryOperators.csproj", "{69FFEABA-39BD-46AF-8431-04D91F0050E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnaryOperators", "06\UnaryOperators\UnaryOperators.csproj", "{8FF5C6FC-1679-4952-945A-A71375EB2DC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnaryOperators", "06\UnaryOperators\UnaryOperators.csproj", "{8FF5C6FC-1679-4952-945A-A71375EB2DC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanLogicalOperators", "06\BooleanLogicalOperators\BooleanLogicalOperators.csproj", "{DC311592-8FDB-4F76-919A-7305CB424556}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanLogicalOperators", "06\BooleanLogicalOperators\BooleanLogicalOperators.csproj", "{DC311592-8FDB-4F76-919A-7305CB424556}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityOperators", "06\EqualityOperators\EqualityOperators.csproj", "{B1D0FF1A-2F0B-4E82-82B4-0925036FD10B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EqualityOperators", "06\EqualityOperators\EqualityOperators.csproj", "{B1D0FF1A-2F0B-4E82-82B4-0925036FD10B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparisonOperators", "06\ComparisonOperators\ComparisonOperators.csproj", "{1324BF0C-D976-4B5B-AE07-70236FA18FE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComparisonOperators", "06\ComparisonOperators\ComparisonOperators.csproj", "{1324BF0C-D976-4B5B-AE07-70236FA18FE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorPrecedence", "06\OperatorPrecedence\OperatorPrecedence.csproj", "{A7DF5E73-F816-4631-A98C-59D0E4AC7D35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorPrecedence", "06\OperatorPrecedence\OperatorPrecedence.csproj", "{A7DF5E73-F816-4631-A98C-59D0E4AC7D35}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07", "07", "{0CB5151F-03B6-4DB4-930D-16A280999EF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayVariables", "07\ArrayVariables\ArrayVariables.csproj", "{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayVariables", "07\ArrayVariables\ArrayVariables.csproj", "{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOperator", "06\PlusOperator\PlusOperator.csproj", "{52C87242-98BF-48CB-9C12-0E785EB4E076}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOperator", "06\PlusOperator\PlusOperator.csproj", "{52C87242-98BF-48CB-9C12-0E785EB4E076}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListVariables", "07\ListVariables\ListVariables.csproj", "{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListVariables", "07\ListVariables\ListVariables.csproj", "{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalArrayAndDictionary", "07\MultiDimensionalArrayAndDictionary\MultiDimensionalArrayAndDictionary.csproj", "{69D84E49-1CAE-4AA0-BDE8-9F46EA575386}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -164,6 +166,10 @@ Global
 		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69D84E49-1CAE-4AA0-BDE8-9F46EA575386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69D84E49-1CAE-4AA0-BDE8-9F46EA575386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69D84E49-1CAE-4AA0-BDE8-9F46EA575386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69D84E49-1CAE-4AA0-BDE8-9F46EA575386}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -192,6 +198,7 @@ Global
 		{312D6F64-BED4-4DD5-9CF9-7DD606B8ED5C} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
 		{52C87242-98BF-48CB-9C12-0E785EB4E076} = {911215E2-F018-4D88-9D1C-DA494AC40E6A}
 		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
+		{69D84E49-1CAE-4AA0-BDE8-9F46EA575386} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
