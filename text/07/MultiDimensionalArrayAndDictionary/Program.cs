@@ -15,11 +15,11 @@ Console.WriteLine("|" + matrix[1, 0] + " " + matrix[1, 1] + " " + matrix[1, 2] +
 // ディクショナリ
 Console.WriteLine("ディクショナリ");
 
-Dictionary<string, long> score = new Dictionary<string, long>();
-score.Add("英語", 80);
-score.Add("国語", 75);
-score["数学"] = 90; // 添え字の要素が存在しない場合は追加
-score["国語"] = 85; // 添え字の要素が存在する場合は上書き
+Dictionary<string, decimal> score = new Dictionary<string, decimal>();
+score.Add("英語", 80m);
+score.Add("国語", 75m);
+score["数学"] = 90m; // 添え字の要素が存在しない場合は追加
+score["国語"] = 85m; // 添え字の要素が存在する場合は上書き
 
 Console.WriteLine("英語:" + score["英語"] + "点"); // output: 英語:80点
 Console.WriteLine("国語:" + score["国語"] + "点"); // output: 国語:85点
