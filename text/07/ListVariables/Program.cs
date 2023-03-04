@@ -6,6 +6,6 @@ items.Add(3);
 
 items[0] = 4;
 
-Console.WriteLine(items[0]); //  output: 4
-Console.WriteLine(items[1]); //  output: 2
-Console.WriteLine(items[2]); //  output: 3
+Console.WriteLine(items[0]); // output: 4
+Console.WriteLine(items[1]); // output: 2
+Console.WriteLine(items[2]); // output: 3
