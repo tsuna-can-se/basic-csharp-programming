@@ -70,6 +70,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiDimensionalArrayAndDic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionInitializer", "07\CollectionInitializer\CollectionInitializer.csproj", "{3A052182-4920-469C-ABB9-69AD6E74F548}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthAndCount", "07\LengthAndCount\LengthAndCount.csproj", "{A25D0A48-4ED3-4283-94F0-803DA00DA211}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -176,6 +178,10 @@ Global
 		{3A052182-4920-469C-ABB9-69AD6E74F548}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A052182-4920-469C-ABB9-69AD6E74F548}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A052182-4920-469C-ABB9-69AD6E74F548}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A25D0A48-4ED3-4283-94F0-803DA00DA211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25D0A48-4ED3-4283-94F0-803DA00DA211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25D0A48-4ED3-4283-94F0-803DA00DA211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25D0A48-4ED3-4283-94F0-803DA00DA211}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -206,6 +212,7 @@ Global
 		{25063E1C-3733-4292-BB6E-1B3DAB9A2DDA} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
 		{69D84E49-1CAE-4AA0-BDE8-9F46EA575386} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
 		{3A052182-4920-469C-ABB9-69AD6E74F548} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
+		{A25D0A48-4ED3-4283-94F0-803DA00DA211} = {0CB5151F-03B6-4DB4-930D-16A280999EF2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
