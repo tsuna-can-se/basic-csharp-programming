@@ -28,3 +28,16 @@ switch (color)
         Console.WriteLine("不明な色です。");
         break;
 }
+
+double rate = 10.5d;
+
+switch (rate)
+{
+    case < 0.0d:
+    case > 10.0d:
+        Console.WriteLine("レートは0～10の間に設定してください。");
+        break;
+    default:
+        Console.WriteLine("レートは" + rate + "です。");
+        break;
+}
