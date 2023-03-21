@@ -1,4 +1,4 @@
-﻿Console.WriteLine("カテゴリの数値を入力して下さい。");
+﻿Console.WriteLine("カテゴリの値を入力して下さい。");
 var category = Console.ReadLine();
 
 switch (category)
