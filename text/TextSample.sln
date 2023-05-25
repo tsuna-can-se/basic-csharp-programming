@@ -96,9 +96,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContinueStatement", "08\Con
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09", "09", "{B14B1CD3-B709-4B3D-955B-22BFFCA87DA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingSample", "09\ShoppingSample\ShoppingSample.csproj", "{62E94CC3-ECCD-4F63-B51E-B5FD2B69E1CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShoppingSample", "09\ShoppingSample\ShoppingSample.csproj", "{62E94CC3-ECCD-4F63-B51E-B5FD2B69E1CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodSample", "09\MethodSample\MethodSample.csproj", "{76B5F64E-2C39-42BD-A7FD-FA6E23B3C3B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodSample", "09\MethodSample\MethodSample.csproj", "{76B5F64E-2C39-42BD-A7FD-FA6E23B3C3B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
