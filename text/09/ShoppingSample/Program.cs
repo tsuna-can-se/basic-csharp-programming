@@ -3,7 +3,7 @@
 Product candy = new Product() { Name = "あめ", UnitPrice = 10m };
 
 // コンストラクターの () は省略可能
-//3811 Product candy = new Product { Name = "あめ", UnitPrice = 10m };
+// Product candy = new Product { Name = "あめ", UnitPrice = 10m };
 
 Product chewingGum = new Product() { Name = "ガム", UnitPrice = 20m };
 Product cookie = new Product() { Name = "クッキー", UnitPrice = 50m };
