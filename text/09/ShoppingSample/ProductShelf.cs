@@ -8,8 +8,15 @@ public class ProductShelf
     {
         get
         {
-            return this.products
-                .Find(p => p.Name == productName);
+            foreach (var product in products)
+            {
+                if (product.Name == productName)
+                {
+                    return product;
+                }
+            }
+
+            return null;
         }
     }
 
