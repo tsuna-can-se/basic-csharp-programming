@@ -104,6 +104,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NamespaceSample", "09\Names
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalOperator", "06\ConditionalOperator\ConditionalOperator.csproj", "{1FBB3BBB-DBAA-463A-B072-0A1249B7F617}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceType", "05\NullableReferenceType\NullableReferenceType.csproj", "{4441F1F6-68C0-4C9B-8CEB-7F119117B5C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -270,6 +272,10 @@ Global
 		{1FBB3BBB-DBAA-463A-B072-0A1249B7F617}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FBB3BBB-DBAA-463A-B072-0A1249B7F617}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FBB3BBB-DBAA-463A-B072-0A1249B7F617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4441F1F6-68C0-4C9B-8CEB-7F119117B5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4441F1F6-68C0-4C9B-8CEB-7F119117B5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4441F1F6-68C0-4C9B-8CEB-7F119117B5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4441F1F6-68C0-4C9B-8CEB-7F119117B5C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -315,6 +321,7 @@ Global
 		{76B5F64E-2C39-42BD-A7FD-FA6E23B3C3B9} = {B14B1CD3-B709-4B3D-955B-22BFFCA87DA6}
 		{1328D56E-F963-4466-9979-6DD69C31D5A6} = {B14B1CD3-B709-4B3D-955B-22BFFCA87DA6}
 		{1FBB3BBB-DBAA-463A-B072-0A1249B7F617} = {911215E2-F018-4D88-9D1C-DA494AC40E6A}
+		{4441F1F6-68C0-4C9B-8CEB-7F119117B5C1} = {F7BEDC4A-AE48-4123-87CB-387388F976D9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
