@@ -2,11 +2,11 @@
 
 public class Product
 {
-    private string name;
+    private string? name;
 
     public string Name
     {
-        get { return this.name; }
+        get { return this.name != null ? this.name : string.Empty; }
         set { this.name = value; }
     }
 
