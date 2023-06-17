@@ -102,17 +102,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MethodSample", "09\MethodSa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NamespaceSample", "09\NamespaceSample\NamespaceSample.csproj", "{1328D56E-F963-4466-9979-6DD69C31D5A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalOperator", "06\ConditionalOperator\ConditionalOperator.csproj", "{1FBB3BBB-DBAA-463A-B072-0A1249B7F617}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalOperator", "06\ConditionalOperator\ConditionalOperator.csproj", "{1FBB3BBB-DBAA-463A-B072-0A1249B7F617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferenceType", "05\NullableReferenceType\NullableReferenceType.csproj", "{4441F1F6-68C0-4C9B-8CEB-7F119117B5C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NullableReferenceType", "05\NullableReferenceType\NullableReferenceType.csproj", "{4441F1F6-68C0-4C9B-8CEB-7F119117B5C1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10", "10", "{9D06571E-04F5-4C7E-94AB-9055B4591652}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorSample", "10\ConstructorSample\ConstructorSample.csproj", "{1F63812B-B31B-45C7-94C2-D2EFF898F78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConstructorSample", "10\ConstructorSample\ConstructorSample.csproj", "{1F63812B-B31B-45C7-94C2-D2EFF898F78B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadSample", "10\OverloadSample\OverloadSample.csproj", "{467A3544-4476-4F62-BF84-B2A7C51653A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadSample", "10\OverloadSample\OverloadSample.csproj", "{467A3544-4476-4F62-BF84-B2A7C51653A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticMemberSample", "10\StaticMemberSample\StaticMemberSample.csproj", "{CE61B1AF-62F3-49FF-BE82-D750B7DDFC84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticMemberSample", "10\StaticMemberSample\StaticMemberSample.csproj", "{CE61B1AF-62F3-49FF-BE82-D750B7DDFC84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndRefArguments", "10\ValueAndRefArguments\ValueAndRefArguments.csproj", "{D5727DC0-8796-4021-BFE5-430CB9AE6CE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -296,6 +298,10 @@ Global
 		{CE61B1AF-62F3-49FF-BE82-D750B7DDFC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE61B1AF-62F3-49FF-BE82-D750B7DDFC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE61B1AF-62F3-49FF-BE82-D750B7DDFC84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5727DC0-8796-4021-BFE5-430CB9AE6CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5727DC0-8796-4021-BFE5-430CB9AE6CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5727DC0-8796-4021-BFE5-430CB9AE6CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5727DC0-8796-4021-BFE5-430CB9AE6CE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -345,6 +351,7 @@ Global
 		{1F63812B-B31B-45C7-94C2-D2EFF898F78B} = {9D06571E-04F5-4C7E-94AB-9055B4591652}
 		{467A3544-4476-4F62-BF84-B2A7C51653A2} = {9D06571E-04F5-4C7E-94AB-9055B4591652}
 		{CE61B1AF-62F3-49FF-BE82-D750B7DDFC84} = {9D06571E-04F5-4C7E-94AB-9055B4591652}
+		{D5727DC0-8796-4021-BFE5-430CB9AE6CE9} = {9D06571E-04F5-4C7E-94AB-9055B4591652}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
