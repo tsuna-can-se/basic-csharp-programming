@@ -8,5 +8,5 @@ Console.WriteLine("製品名:" + p1.Name);
 static void SetIdAndName(Product product)
 {
     product.Id = 20;
-    product.Name = "メソッド内で設定した名前";
+    product.Name = "変更後";
 }
