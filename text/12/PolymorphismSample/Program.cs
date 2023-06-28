@@ -27,4 +27,3 @@ static ConsoleLoggerBase CreateConsoleLogger(string loggerType)
             throw new NotSupportedException();
     }
 }
-
