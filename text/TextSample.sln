@@ -114,7 +114,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OverloadSample", "10\Overlo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StaticMemberSample", "10\StaticMemberSample\StaticMemberSample.csproj", "{CE61B1AF-62F3-49FF-BE82-D750B7DDFC84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndRefArguments", "10\ValueAndRefArguments\ValueAndRefArguments.csproj", "{D5727DC0-8796-4021-BFE5-430CB9AE6CE9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndRefArguments", "10\ValueAndRefArguments\ValueAndRefArguments.csproj", "{D5727DC0-8796-4021-BFE5-430CB9AE6CE9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "11", "11", "{1BE12762-309F-4676-9AF6-1907161E6275}"
 EndProject
@@ -122,13 +122,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StructSample", "11\StructSa
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12", "12", "{84C7BEB3-F742-44FB-BF40-8D5712D1E3F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendsSample", "12\ExtendsSample\ExtendsSample.csproj", "{1C899D1F-F983-499D-9DEC-84B56BE4A04C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtendsSample", "12\ExtendsSample\ExtendsSample.csproj", "{1C899D1F-F983-499D-9DEC-84B56BE4A04C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceSample", "12\InterfaceSample\InterfaceSample.csproj", "{1C3246E1-B342-4709-B55E-D43780E06131}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfaceSample", "12\InterfaceSample\InterfaceSample.csproj", "{1C3246E1-B342-4709-B55E-D43780E06131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClassSample", "12\AbstractClassSample\AbstractClassSample.csproj", "{CE442C28-D360-4F3F-BF9C-F269304FE220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClassSample", "12\AbstractClassSample\AbstractClassSample.csproj", "{CE442C28-D360-4F3F-BF9C-F269304FE220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismSample", "12\PolymorphismSample\PolymorphismSample.csproj", "{CBB9F55D-FB04-48EC-ADE1-1B2C5D1CFAB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphismSample", "12\PolymorphismSample\PolymorphismSample.csproj", "{CBB9F55D-FB04-48EC-ADE1-1B2C5D1CFAB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13", "13", "{40A1AD82-33F1-4E62-9E7D-39F6D492B797}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowExceptionSample", "13\ThrowExceptionSample\ThrowExceptionSample.csproj", "{8D83B4D2-F061-4443-8637-03FEA22144E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -336,6 +340,10 @@ Global
 		{CBB9F55D-FB04-48EC-ADE1-1B2C5D1CFAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CBB9F55D-FB04-48EC-ADE1-1B2C5D1CFAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CBB9F55D-FB04-48EC-ADE1-1B2C5D1CFAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D83B4D2-F061-4443-8637-03FEA22144E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D83B4D2-F061-4443-8637-03FEA22144E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D83B4D2-F061-4443-8637-03FEA22144E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D83B4D2-F061-4443-8637-03FEA22144E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -391,6 +399,7 @@ Global
 		{1C3246E1-B342-4709-B55E-D43780E06131} = {84C7BEB3-F742-44FB-BF40-8D5712D1E3F6}
 		{CE442C28-D360-4F3F-BF9C-F269304FE220} = {84C7BEB3-F742-44FB-BF40-8D5712D1E3F6}
 		{CBB9F55D-FB04-48EC-ADE1-1B2C5D1CFAB1} = {84C7BEB3-F742-44FB-BF40-8D5712D1E3F6}
+		{8D83B4D2-F061-4443-8637-03FEA22144E7} = {40A1AD82-33F1-4E62-9E7D-39F6D492B797}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
