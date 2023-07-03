@@ -142,6 +142,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RethrowSample", "13\Rethrow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapExceptionSample", "13\WrapExceptionSample\WrapExceptionSample.csproj", "{B09F77B0-0B09-4B1B-8545-9A6370881865}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryFinallySample", "13\TryFinallySample\TryFinallySample.csproj", "{0C12694B-DA02-4E62-AC74-565BBDF3E018}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -368,6 +370,10 @@ Global
 		{B09F77B0-0B09-4B1B-8545-9A6370881865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B09F77B0-0B09-4B1B-8545-9A6370881865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B09F77B0-0B09-4B1B-8545-9A6370881865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C12694B-DA02-4E62-AC74-565BBDF3E018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C12694B-DA02-4E62-AC74-565BBDF3E018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C12694B-DA02-4E62-AC74-565BBDF3E018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C12694B-DA02-4E62-AC74-565BBDF3E018}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -428,6 +434,7 @@ Global
 		{8DC36F0C-9B08-4735-AC79-F0743184F1A7} = {40A1AD82-33F1-4E62-9E7D-39F6D492B797}
 		{461F1404-6D61-4D3C-ACA5-326AC7262EFA} = {40A1AD82-33F1-4E62-9E7D-39F6D492B797}
 		{B09F77B0-0B09-4B1B-8545-9A6370881865} = {40A1AD82-33F1-4E62-9E7D-39F6D492B797}
+		{0C12694B-DA02-4E62-AC74-565BBDF3E018} = {40A1AD82-33F1-4E62-9E7D-39F6D492B797}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
