@@ -138,6 +138,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchExceptionSample", "13\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchMultipleExceptionSample", "13\CatchMultipleExceptionSample\CatchMultipleExceptionSample.csproj", "{8DC36F0C-9B08-4735-AC79-F0743184F1A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RethrowSample", "13\RethrowSample\RethrowSample.csproj", "{461F1404-6D61-4D3C-ACA5-326AC7262EFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -356,6 +358,10 @@ Global
 		{8DC36F0C-9B08-4735-AC79-F0743184F1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DC36F0C-9B08-4735-AC79-F0743184F1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DC36F0C-9B08-4735-AC79-F0743184F1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{461F1404-6D61-4D3C-ACA5-326AC7262EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461F1404-6D61-4D3C-ACA5-326AC7262EFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461F1404-6D61-4D3C-ACA5-326AC7262EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461F1404-6D61-4D3C-ACA5-326AC7262EFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -414,6 +420,7 @@ Global
 		{8D83B4D2-F061-4443-8637-03FEA22144E7} = {40A1AD82-33F1-4E62-9E7D-39F6D492B797}
 		{9841DF02-6D7F-4390-BF01-07A8D2BF4563} = {40A1AD82-33F1-4E62-9E7D-39F6D492B797}
 		{8DC36F0C-9B08-4735-AC79-F0743184F1A7} = {40A1AD82-33F1-4E62-9E7D-39F6D492B797}
+		{461F1404-6D61-4D3C-ACA5-326AC7262EFA} = {40A1AD82-33F1-4E62-9E7D-39F6D492B797}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
