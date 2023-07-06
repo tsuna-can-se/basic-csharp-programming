@@ -154,6 +154,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumSample", "14\EnumSample
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleSample", "14\TupleSample\TupleSample.csproj", "{01C2F931-0B0A-45F0-A16A-7B72A8D42392}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypeSample", "14\AnonymousTypeSample\AnonymousTypeSample.csproj", "{532D88C1-B7DF-474F-9716-5DD3A71435A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -400,6 +402,10 @@ Global
 		{01C2F931-0B0A-45F0-A16A-7B72A8D42392}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01C2F931-0B0A-45F0-A16A-7B72A8D42392}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01C2F931-0B0A-45F0-A16A-7B72A8D42392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532D88C1-B7DF-474F-9716-5DD3A71435A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532D88C1-B7DF-474F-9716-5DD3A71435A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532D88C1-B7DF-474F-9716-5DD3A71435A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532D88C1-B7DF-474F-9716-5DD3A71435A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -465,6 +471,7 @@ Global
 		{CB212B06-D02F-463A-8271-6849D41315ED} = {E8399E4A-B0E9-4D36-A99E-2F3CB09C056A}
 		{24CA0FA3-5EFA-4F05-AC0D-32EFD3071860} = {E8399E4A-B0E9-4D36-A99E-2F3CB09C056A}
 		{01C2F931-0B0A-45F0-A16A-7B72A8D42392} = {E8399E4A-B0E9-4D36-A99E-2F3CB09C056A}
+		{532D88C1-B7DF-474F-9716-5DD3A71435A1} = {E8399E4A-B0E9-4D36-A99E-2F3CB09C056A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
