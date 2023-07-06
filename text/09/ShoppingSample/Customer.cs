@@ -1,6 +1,4 @@
-﻿using System.Diagnostics.CodeAnalysis;
-
-namespace ShoppingSample;
+﻿namespace ShoppingSample;
 
 public class Customer
 {
