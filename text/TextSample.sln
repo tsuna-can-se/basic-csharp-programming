@@ -133,39 +133,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphismSample", "12\Po
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "13", "13", "{40A1AD82-33F1-4E62-9E7D-39F6D492B797}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowExceptionSample", "13\ThrowExceptionSample\ThrowExceptionSample.csproj", "{8D83B4D2-F061-4443-8637-03FEA22144E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThrowExceptionSample", "13\ThrowExceptionSample\ThrowExceptionSample.csproj", "{8D83B4D2-F061-4443-8637-03FEA22144E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchExceptionSample", "13\CatchExceptionSample\CatchExceptionSample.csproj", "{9841DF02-6D7F-4390-BF01-07A8D2BF4563}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatchExceptionSample", "13\CatchExceptionSample\CatchExceptionSample.csproj", "{9841DF02-6D7F-4390-BF01-07A8D2BF4563}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchMultipleExceptionSample", "13\CatchMultipleExceptionSample\CatchMultipleExceptionSample.csproj", "{8DC36F0C-9B08-4735-AC79-F0743184F1A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatchMultipleExceptionSample", "13\CatchMultipleExceptionSample\CatchMultipleExceptionSample.csproj", "{8DC36F0C-9B08-4735-AC79-F0743184F1A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RethrowSample", "13\RethrowSample\RethrowSample.csproj", "{461F1404-6D61-4D3C-ACA5-326AC7262EFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RethrowSample", "13\RethrowSample\RethrowSample.csproj", "{461F1404-6D61-4D3C-ACA5-326AC7262EFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapExceptionSample", "13\WrapExceptionSample\WrapExceptionSample.csproj", "{B09F77B0-0B09-4B1B-8545-9A6370881865}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WrapExceptionSample", "13\WrapExceptionSample\WrapExceptionSample.csproj", "{B09F77B0-0B09-4B1B-8545-9A6370881865}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryFinallySample", "13\TryFinallySample\TryFinallySample.csproj", "{0C12694B-DA02-4E62-AC74-565BBDF3E018}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryFinallySample", "13\TryFinallySample\TryFinallySample.csproj", "{0C12694B-DA02-4E62-AC74-565BBDF3E018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtendExceptionSample", "13\ExtendExceptionSample\ExtendExceptionSample.csproj", "{B7E02A5F-78D6-407B-8DC7-F20D3096E056}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtendExceptionSample", "13\ExtendExceptionSample\ExtendExceptionSample.csproj", "{B7E02A5F-78D6-407B-8DC7-F20D3096E056}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "14", "14", "{E8399E4A-B0E9-4D36-A99E-2F3CB09C056A}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XmlDocumentCommentSample", "14\XmlDocumentCommentSample\XmlDocumentCommentSample.csproj", "{CB212B06-D02F-463A-8271-6849D41315ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumSample", "14\EnumSample\EnumSample.csproj", "{24CA0FA3-5EFA-4F05-AC0D-32EFD3071860}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EnumSample", "14\EnumSample\EnumSample.csproj", "{24CA0FA3-5EFA-4F05-AC0D-32EFD3071860}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TupleSample", "14\TupleSample\TupleSample.csproj", "{01C2F931-0B0A-45F0-A16A-7B72A8D42392}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TupleSample", "14\TupleSample\TupleSample.csproj", "{01C2F931-0B0A-45F0-A16A-7B72A8D42392}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypeSample", "14\AnonymousTypeSample\AnonymousTypeSample.csproj", "{532D88C1-B7DF-474F-9716-5DD3A71435A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousTypeSample", "14\AnonymousTypeSample\AnonymousTypeSample.csproj", "{532D88C1-B7DF-474F-9716-5DD3A71435A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordSample", "14\RecordSample\RecordSample.csproj", "{F43C6B81-F68A-4248-99EA-1D815B4668EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecordSample", "14\RecordSample\RecordSample.csproj", "{F43C6B81-F68A-4248-99EA-1D815B4668EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTypeSample", "14\DynamicTypeSample\DynamicTypeSample.csproj", "{A1482672-7DDD-4621-8652-557A8EC4C491}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicTypeSample", "14\DynamicTypeSample\DynamicTypeSample.csproj", "{A1482672-7DDD-4621-8652-557A8EC4C491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionParameter", "14\OptionParameter\OptionParameter.csproj", "{354FE19C-B760-4917-8151-DD3702AB3F8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OptionParameter", "14\OptionParameter\OptionParameter.csproj", "{354FE19C-B760-4917-8151-DD3702AB3F8E}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtensionMethodSample", "14\ExtensionMethodSample\ExtensionMethodSample.csproj", "{6C343DDB-FFF6-4989-BC30-94CF6552DB55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceSample", "14\ResourceSample\ResourceSample.csproj", "{37F06266-74F9-477A-9B64-3930AC035C32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ResourceSample", "14\ResourceSample\ResourceSample.csproj", "{37F06266-74F9-477A-9B64-3930AC035C32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "15", "15", "{D4A5CB1B-D748-49EF-95D3-9B2E0EDDB366}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateSample", "15\DelegateSample\DelegateSample.csproj", "{34C8297F-3F3B-430B-9AE8-F1DBBEA8DC67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -437,6 +441,10 @@ Global
 		{37F06266-74F9-477A-9B64-3930AC035C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37F06266-74F9-477A-9B64-3930AC035C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37F06266-74F9-477A-9B64-3930AC035C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C8297F-3F3B-430B-9AE8-F1DBBEA8DC67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C8297F-3F3B-430B-9AE8-F1DBBEA8DC67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C8297F-3F3B-430B-9AE8-F1DBBEA8DC67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C8297F-3F3B-430B-9AE8-F1DBBEA8DC67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -508,6 +516,7 @@ Global
 		{354FE19C-B760-4917-8151-DD3702AB3F8E} = {E8399E4A-B0E9-4D36-A99E-2F3CB09C056A}
 		{6C343DDB-FFF6-4989-BC30-94CF6552DB55} = {E8399E4A-B0E9-4D36-A99E-2F3CB09C056A}
 		{37F06266-74F9-477A-9B64-3930AC035C32} = {E8399E4A-B0E9-4D36-A99E-2F3CB09C056A}
+		{34C8297F-3F3B-430B-9AE8-F1DBBEA8DC67} = {D4A5CB1B-D748-49EF-95D3-9B2E0EDDB366}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1BD9C9E1-0986-449E-BBE6-C61D43F66AD6}
