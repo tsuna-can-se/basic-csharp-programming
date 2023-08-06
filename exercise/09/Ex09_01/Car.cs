@@ -45,7 +45,7 @@
             }
 
             this.gasAmount += actualAmount;
-            Console.WriteLine($"{actualAmount}リットル給油しました。ガソリンの残量は{this.gasAmount}リットルです。");
+            Console.WriteLine($"{amount}リットル給油しようとしました。ガソリンの残量は{this.gasAmount}リットルです。");
             return actualAmount;
         }
     }
