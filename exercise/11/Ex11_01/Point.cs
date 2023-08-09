@@ -13,7 +13,7 @@ public struct Point
 
     public void Show()
     {
-        Console.WriteLine($"({this.X}, {this.Y})");
+        Console.WriteLine("(" + this.X + ", " + this.Y + ")");
     }
 
     public Point Add(Point p)
