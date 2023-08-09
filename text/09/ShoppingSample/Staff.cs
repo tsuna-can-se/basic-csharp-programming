@@ -16,7 +16,7 @@ public class Staff
             this.totalPrice += cartItem.UnitPrice;
             cartItem = shoppingCart.TakeOut();
         }
-        Console.WriteLine($"税込み合計は {this.totalPriceWithTax} 円です。");
+        Console.WriteLine("税込み合計は " + this.totalPriceWithTax + " 円です。");
         return this.totalPriceWithTax;
     }
 
@@ -24,7 +24,7 @@ public class Staff
     {
         if (this.totalPriceWithTax != finalBill)
         {
-            throw new InvalidOperationException($"税込み価格 {this.totalPriceWithTax}円に対して、支払金額 {finalBill}円 が一致していません。");
+            throw new InvalidOperationException("税込み価格 " + this.totalPriceWithTax + "円に対して、支払金額 " + finalBill + "円 が一致していません。");
         }
 
         CashRegister.AddSales(this.totalPriceWithTax, this.totalPrice);
