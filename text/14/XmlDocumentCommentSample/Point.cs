@@ -32,6 +32,6 @@ public class Point
     /// <returns>(X, Y) 形式の文字列。</returns>
     public override string ToString()
     {
-        return $"({X}, {Y})";
+        return "(" + this.X + ", " + this.Y + ")";
     }
 }

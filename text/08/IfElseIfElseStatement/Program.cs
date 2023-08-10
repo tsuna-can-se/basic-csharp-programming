@@ -1,5 +1,5 @@
 ﻿int rand = Random.Shared.Next(-1, 2); // -1～1の整数の乱数を生成します。
-Console.WriteLine($"生成した乱数は" + rand + "です。");
+Console.WriteLine("生成した乱数は" + rand + "です。");
 
 if (rand > 0)
 {

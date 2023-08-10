@@ -11,7 +11,7 @@
                 // ガソリンの残量が10リットル以上ある場合、ガソリンの残量を10リットル減らします。
                 // またコンソールに「車を運転しました。ガソリンの残量は##リットルです。」というメッセージを表示します。
                 this.gasAmount -= 10;
-                Console.WriteLine($"車を運転しました。ガソリンの残量は{this.gasAmount}リットルです。");
+                Console.WriteLine("車を運転しました。ガソリンの残量は" + this.gasAmount + "リットルです。");
             }
             else
             {
@@ -45,7 +45,7 @@
             }
 
             this.gasAmount += actualAmount;
-            Console.WriteLine($"{amount}リットル給油しようとしました。ガソリンの残量は{this.gasAmount}リットルです。");
+            Console.WriteLine(amount + "リットル給油しようとしました。ガソリンの残量は" + this.gasAmount + "リットルです。");
             return actualAmount;
         }
     }

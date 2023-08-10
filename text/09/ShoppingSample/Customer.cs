@@ -16,7 +16,7 @@ public class Customer
 
     public void Shopping()
     {
-        Console.WriteLine($"買い物をはじめます。所持金は {this.cash} 円です。");
+        Console.WriteLine("買い物をはじめます。所持金は " + this.cash + " 円です。");
         this.shoppingCart = new ShoppingCart();
         foreach (var memo in this.shoppingList)
         {
@@ -29,12 +29,12 @@ public class Customer
                 for (int i = 0; i < amount; i++)
                 {
                     this.shoppingCart.Add(product.DeepCopy());
-                    Console.WriteLine($"{product.Name} ({product.UnitPriceWithTax}円) を買い物かごに入れました。");
+                    Console.WriteLine(product.Name + " (" + product.UnitPriceWithTax + "円) を買い物かごに入れました。");
                 }
             }
             else
             {
-                Console.WriteLine($"{productName} がみつかりません。");
+                Console.WriteLine(productName + " がみつかりません。");
             }
         }
 
@@ -43,6 +43,6 @@ public class Customer
         decimal total = staff.CalculatePrice(this.shoppingCart);
         this.cash -= total;
         var products = staff.Checkout(total);
-        Console.WriteLine($"{total} 円支払いました。残金は {this.cash} 円です。");
+        Console.WriteLine(total + " 円支払いました。残金は " + this.cash + " 円です。");
     }
 }
