@@ -22,6 +22,9 @@ QueueUsage.Run();
 Console.WriteLine("===Stack class===");
 StackUsage.Run();
 
+Console.WriteLine("===StringBuilder class===");
+StringBuilderUsage.Run();
+
 Console.WriteLine("===StreamReader class===");
 StreamReaderUsage.Run();
 
