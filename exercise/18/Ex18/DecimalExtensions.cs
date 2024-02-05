@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace Ex17;
+namespace Ex18;
 
 public static class DecimalExtensions
 {
