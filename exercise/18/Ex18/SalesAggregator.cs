@@ -1,4 +1,4 @@
-﻿namespace Ex17;
+﻿namespace Ex18;
 
 public class SalesAggregator
 {
