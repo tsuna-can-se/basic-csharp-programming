@@ -1,13 +1,19 @@
-﻿DateTime now = DateTime.Now;
-var dayOfWeek = now.DayOfWeek switch
+﻿string? result = "表";
+bool? isHead = result switch
 {
-    DayOfWeek.Monday => "月曜日",
-    DayOfWeek.Tuesday => "火曜日",
-    DayOfWeek.Wednesday => "水曜日",
-    DayOfWeek.Thursday => "木曜日",
-    DayOfWeek.Friday => "金曜日",
-    DayOfWeek.Saturday => "土曜日",
-    DayOfWeek.Sunday => "日曜日",
-    _ => "Unknown"
+    "表" => true,
+    "裏" => false,
+    _ => null,
 };
-Console.WriteLine(dayOfWeek);
+
+Console.WriteLine(isHead); // output: True
+Console.WriteLine("=========================");
+
+int rand = Random.Shared.Next(1, 10);
+string message = rand switch{
+    < 3 => "小さい",
+    > 7 => "大きい",
+    _ => "普通"
+};
+
+Console.WriteLine($"{rand}: {message}");
