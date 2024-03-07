@@ -1,4 +1,4 @@
-string result = "表";
+﻿string result = "表";
 bool? isHead = result switch
 {
     "表" => true,
@@ -10,7 +10,8 @@ Console.WriteLine(isHead); // output: True
 Console.WriteLine("=========================");
 
 int rand = Random.Shared.Next(1, 10);
-string message = rand switch{
+string message = rand switch
+{
     < 3 => "小さい",
     > 7 => "大きい",
     _ => "普通"
