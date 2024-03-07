@@ -1,4 +1,4 @@
-﻿string? result = "表";
+string result = "表";
 bool? isHead = result switch
 {
     "表" => true,
