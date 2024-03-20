@@ -1,9 +1,9 @@
 # このリポジトリについて
 
-「Visual Studioで学ぶ C# プログラミング」で紹介しているサンプルプログラム、および演習課題の解答をダウンロードすることができます。
+「Visual Studioで学ぶ C# プログラミング .NET6対応」で紹介しているサンプルプログラム、および演習課題の解答をダウンロードすることができます。
 書籍は以下から購入いただけます。
 
-<https://zenn.dev/tsuna_can/books/basic-csharp-programming>
+<https://zenn.dev/tsuna_can/books/dotnet6-basic-csharp-programming>
 
 ## ディレクトリ構成
 
